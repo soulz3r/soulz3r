@@ -40,7 +40,7 @@ root@soulz3r:~# _
 - **Neovim** — I wanted a text editor. I appear to be maintaining an ecosystem now.
 - **Linux** — A perfectly good desktop is never more than one configuration change away from becoming an experiment.
 - **Terminal tools** — Why use an existing utility when I could spend an unreasonable amount of time making another one?
-- **Lua** — Th... this one came with Neovim.
+- **Lua** — Neovim made me do this.
 
 ### `/var/log/incidents`
 
